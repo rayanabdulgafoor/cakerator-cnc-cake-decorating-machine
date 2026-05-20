@@ -2,7 +2,7 @@
 
 3-DOF polar robotic cake decorating system designed for precise rotational and radial motion control.
 
-![Hero Image](/cakerator-cnc-cake-decorating-machine/assets/hero_shot.jpg)
+![Hero Image](/assets/hero_shot.jpg)
 
 [Presentation Video](https://www.youtube.com/watch?v=__ybdY_pd08)
 
