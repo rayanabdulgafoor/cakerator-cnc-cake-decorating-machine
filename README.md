@@ -78,4 +78,4 @@ Motion control was implemented using ESP32-based GRBL firmware to coordinate syn
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Creative Commons BY-NC-SA 4.0 License.
